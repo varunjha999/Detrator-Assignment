@@ -1,5 +1,7 @@
 # post.js
 
+#install node.js 
+
 
 This app was created by [Varun Jha](https://www.linkedin.com/in/jhavarun999).
 
@@ -14,6 +16,28 @@ yarn install
 
 # start 
 yarn dev
+
+
+
+Create a web page using "Next.js". Integrate the api for getting the list of available posts and present all posts in your web page. You can use your past experience to make it nice and smooth.
+
+Page Name:- posts.js
+Api:- https://fakestoreapi.com/products/
+
+Third-party Packages For Styling
+You can only use this third-party packages/library for this Assignment
+MUI (https://mui.com/)
+
+
+
+
+
+
+
+
+
+
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
